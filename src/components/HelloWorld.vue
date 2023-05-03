@@ -18,12 +18,10 @@ export default {
             {
               "name": "123",
               "id": "1",
-              "title": "title 1"
             },
             {
               "name": "456",
               "id": "2",
-              "title": "title 2"
             }
           ]
   })
